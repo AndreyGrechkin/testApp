@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="news">Новости</string>
+    <string name="chart">Диаграмма</string>
+    <string name="menu_1">Меню 1</string>
+    <string name="menu_2">Меню 2</string>
+    <string name="menu_3">Меню 3</string>
+    <string name="menu_4">Меню 4</string>
+    <string name="news_title">Новости</string>
+    <string name="Error_retry">Нет сети. Обновите страницу</string>
+    <string name="retry">Обновить</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+</resources>
